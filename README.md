@@ -1,9 +1,8 @@
 # machine-learning-class
-Notebook com as atividades da aula de Machine Learning, explorando conceitos, exercícios práticos e experimentos com dados, para acompanhar o aprendizado passo a passo.
 
 # 🌟 Atividades de Machine Learning
 
-Este repositório reúne todas as atividades práticas da disciplina de **Machine Learning** da Fatec. Aqui você vai encontrar experimentos com técnicas que estamos explorando em aula.
+Este repositório reúne as atividades práticas da disciplina de **Machine Learning** da Fatec. Aqui você vai encontrar experimentos com técnicas e conceitos que estamos explorando em aula.
 
 ## 📂 Estrutura do Repositório
 
